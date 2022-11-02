@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ckaeru
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on a project in databases
+- 📫 How to reach me 2002kaeru@gmail.com
+-----------------------------------------------------------------
+Check out my projects in htlm:
+- clock
+- color generator
+- Dicee game
+- js calculator
+- project time manager
+- video bg
